@@ -10,7 +10,7 @@ print("Polymorphism - Method Overloading")
 print(addNumbers(8, 3)) 
 print(addNumbers(8, 3, 1)) 
 
-print("------------")
+print("--------------")
 print("Polymorphism - Main Function is not aware of type of classes in the for loop")
 class India(): 
     def capital(self): 
