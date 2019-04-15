@@ -35,8 +35,6 @@ python3-features.py - Run it as python3 python3-features.py </br>
 </br>
 
 8.1.Concepts of Abstract Class and Private Variables as per Co-operative Object Oriented mode</br>
-8.2.Example of Real World Programming in Python </br>
-8.3.Zen of Python with Examples </br>
-zenofpython-realworlpython-cooperative-model.py - Run it as python3 zenofpython-realworlpython-cooperative-model.py </br>
+workarounds-cooperative-model.py.py - Run it as python3 zenofpython-realworlpython-cooperative-model.py </br>
 
 
