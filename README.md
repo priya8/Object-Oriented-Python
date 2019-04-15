@@ -1,5 +1,5 @@
 # Object-Oriented-Python
-Object-Oriented Python - Graduate Presentation
+Object Oriented Python - Graduate Presentation
 </br>
 Name: Priyanka Umesh Pandit Tailapur </br>
 SID:  109259683 </br>
